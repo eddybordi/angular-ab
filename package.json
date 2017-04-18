@@ -1,0 +1,24 @@
+{
+  "name": "angular-ab",
+  "version": "0.0.1",
+  "description": "Angular 4 AB testing - Easily AB test your Angular 4 application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "Angular4",
+    "Angular 4",
+    "Angular 2",
+    "Angular2",
+    "AB test",
+    "A/B test",
+    "AB testing",
+    "A/B testing",
+    "split test",
+    "split testing"
+  ],
+  "author": "Eddy Bordi",
+  "license": "ISC"
+}
